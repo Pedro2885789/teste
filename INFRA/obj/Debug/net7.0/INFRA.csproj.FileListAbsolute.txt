@@ -1,0 +1,60 @@
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\INFRA\bin\Debug\net7.0\INFRA.deps.json
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\INFRA\bin\Debug\net7.0\INFRA.dll
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\INFRA\bin\Debug\net7.0\INFRA.pdb
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\INFRA\bin\Debug\net7.0\DOMINIO.dll
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\INFRA\bin\Debug\net7.0\DOMINIO.pdb
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\INFRA\obj\Debug\net7.0\INFRA.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\INFRA\obj\Debug\net7.0\INFRA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\INFRA\obj\Debug\net7.0\INFRA.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\INFRA\obj\Debug\net7.0\INFRA.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\INFRA\obj\Debug\net7.0\INFRA.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\INFRA\obj\Debug\net7.0\INFRA.csproj.CopyComplete
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\INFRA\obj\Debug\net7.0\INFRA.dll
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\INFRA\obj\Debug\net7.0\refint\INFRA.dll
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\INFRA\obj\Debug\net7.0\INFRA.pdb
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\INFRA\obj\Debug\net7.0\ref\INFRA.dll
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\INFRA\bin\Debug\net7.0\INFRA.deps.json
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\INFRA\bin\Debug\net7.0\INFRA.dll
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\INFRA\bin\Debug\net7.0\INFRA.pdb
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\INFRA\bin\Debug\net7.0\DOMINIO.dll
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\INFRA\bin\Debug\net7.0\DOMINIO.pdb
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\INFRA\obj\Debug\net7.0\INFRA.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\INFRA\obj\Debug\net7.0\INFRA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\INFRA\obj\Debug\net7.0\INFRA.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\INFRA\obj\Debug\net7.0\INFRA.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\INFRA\obj\Debug\net7.0\INFRA.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\INFRA\obj\Debug\net7.0\INFRA.csproj.CopyComplete
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\INFRA\obj\Debug\net7.0\INFRA.dll
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\INFRA\obj\Debug\net7.0\refint\INFRA.dll
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\INFRA\obj\Debug\net7.0\INFRA.pdb
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\INFRA\obj\Debug\net7.0\ref\INFRA.dll
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\INFRA\bin\Debug\net7.0\INFRA.deps.json
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\INFRA\bin\Debug\net7.0\INFRA.dll
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\INFRA\bin\Debug\net7.0\INFRA.pdb
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\INFRA\bin\Debug\net7.0\DOMINIO.dll
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\INFRA\bin\Debug\net7.0\DOMINIO.pdb
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\INFRA\obj\Debug\net7.0\INFRA.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\INFRA\obj\Debug\net7.0\INFRA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\INFRA\obj\Debug\net7.0\INFRA.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\INFRA\obj\Debug\net7.0\INFRA.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\INFRA\obj\Debug\net7.0\INFRA.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\INFRA\obj\Debug\net7.0\INFRA.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\INFRA\obj\Debug\net7.0\INFRA.dll
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\INFRA\obj\Debug\net7.0\refint\INFRA.dll
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\INFRA\obj\Debug\net7.0\INFRA.pdb
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\INFRA\obj\Debug\net7.0\ref\INFRA.dll
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\INFRA\bin\Debug\net7.0\INFRA.deps.json
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\INFRA\bin\Debug\net7.0\INFRA.dll
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\INFRA\bin\Debug\net7.0\INFRA.pdb
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\INFRA\bin\Debug\net7.0\DOMINIO.dll
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\INFRA\bin\Debug\net7.0\DOMINIO.pdb
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\INFRA\obj\Debug\net7.0\INFRA.csproj.AssemblyReference.cache
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\INFRA\obj\Debug\net7.0\INFRA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\INFRA\obj\Debug\net7.0\INFRA.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\INFRA\obj\Debug\net7.0\INFRA.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\INFRA\obj\Debug\net7.0\INFRA.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\INFRA\obj\Debug\net7.0\INFRA.csproj.CopyComplete
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\INFRA\obj\Debug\net7.0\INFRA.dll
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\INFRA\obj\Debug\net7.0\refint\INFRA.dll
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\INFRA\obj\Debug\net7.0\INFRA.pdb
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\INFRA\obj\Debug\net7.0\ref\INFRA.dll

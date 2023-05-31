@@ -1,0 +1,48 @@
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\DOMINIO\bin\Debug\net7.0\DOMINIO.deps.json
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\DOMINIO\bin\Debug\net7.0\DOMINIO.dll
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\DOMINIO\bin\Debug\net7.0\DOMINIO.pdb
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\DOMINIO\obj\Debug\net7.0\DOMINIO.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\DOMINIO\obj\Debug\net7.0\DOMINIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\DOMINIO\obj\Debug\net7.0\DOMINIO.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\DOMINIO\obj\Debug\net7.0\DOMINIO.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\DOMINIO\obj\Debug\net7.0\DOMINIO.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\DOMINIO\obj\Debug\net7.0\DOMINIO.dll
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\DOMINIO\obj\Debug\net7.0\refint\DOMINIO.dll
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\DOMINIO\obj\Debug\net7.0\DOMINIO.pdb
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\DOMINIO\obj\Debug\net7.0\ref\DOMINIO.dll
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\DOMINIO\bin\Debug\net7.0\DOMINIO.deps.json
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\DOMINIO\bin\Debug\net7.0\DOMINIO.dll
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\DOMINIO\bin\Debug\net7.0\DOMINIO.pdb
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\DOMINIO\obj\Debug\net7.0\DOMINIO.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\DOMINIO\obj\Debug\net7.0\DOMINIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\DOMINIO\obj\Debug\net7.0\DOMINIO.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\DOMINIO\obj\Debug\net7.0\DOMINIO.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\DOMINIO\obj\Debug\net7.0\DOMINIO.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\DOMINIO\obj\Debug\net7.0\DOMINIO.dll
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\DOMINIO\obj\Debug\net7.0\refint\DOMINIO.dll
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\DOMINIO\obj\Debug\net7.0\DOMINIO.pdb
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\DOMINIO\obj\Debug\net7.0\ref\DOMINIO.dll
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\DOMINIO\bin\Debug\net7.0\DOMINIO.deps.json
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\DOMINIO\bin\Debug\net7.0\DOMINIO.dll
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\DOMINIO\bin\Debug\net7.0\DOMINIO.pdb
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\DOMINIO\obj\Debug\net7.0\DOMINIO.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\DOMINIO\obj\Debug\net7.0\DOMINIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\DOMINIO\obj\Debug\net7.0\DOMINIO.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\DOMINIO\obj\Debug\net7.0\DOMINIO.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\DOMINIO\obj\Debug\net7.0\DOMINIO.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\DOMINIO\obj\Debug\net7.0\DOMINIO.dll
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\DOMINIO\obj\Debug\net7.0\refint\DOMINIO.dll
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\DOMINIO\obj\Debug\net7.0\DOMINIO.pdb
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\DOMINIO\obj\Debug\net7.0\ref\DOMINIO.dll
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\DOMINIO\bin\Debug\net7.0\DOMINIO.deps.json
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\DOMINIO\bin\Debug\net7.0\DOMINIO.dll
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\DOMINIO\bin\Debug\net7.0\DOMINIO.pdb
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\DOMINIO\obj\Debug\net7.0\DOMINIO.csproj.AssemblyReference.cache
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\DOMINIO\obj\Debug\net7.0\DOMINIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\DOMINIO\obj\Debug\net7.0\DOMINIO.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\DOMINIO\obj\Debug\net7.0\DOMINIO.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\DOMINIO\obj\Debug\net7.0\DOMINIO.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\DOMINIO\obj\Debug\net7.0\DOMINIO.dll
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\DOMINIO\obj\Debug\net7.0\refint\DOMINIO.dll
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\DOMINIO\obj\Debug\net7.0\DOMINIO.pdb
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\DOMINIO\obj\Debug\net7.0\ref\DOMINIO.dll

@@ -1,0 +1,348 @@
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\CRUD.exe
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\CRUD.dll.config
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\CRUD.deps.json
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\CRUD.runtimeconfig.json
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\CRUD.dll
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\CRUD.pdb
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\FluentMigrator.dll
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\FluentMigrator.Abstractions.dll
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\FluentMigrator.Extensions.Oracle.dll
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\FluentMigrator.Extensions.Postgres.dll
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\FluentMigrator.Extensions.SqlAnywhere.dll
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\FluentMigrator.Extensions.SqlServer.dll
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\FluentMigrator.Runner.dll
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\FluentMigrator.Runner.Core.dll
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\FluentMigrator.Runner.Db2.dll
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\FluentMigrator.Runner.Firebird.dll
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\FluentMigrator.Runner.Hana.dll
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\FluentMigrator.Runner.MySql.dll
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\FluentMigrator.Runner.Oracle.dll
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\FluentMigrator.Runner.Postgres.dll
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\FluentMigrator.Runner.Redshift.dll
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\FluentMigrator.Runner.SqlAnywhere.dll
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\FluentMigrator.Runner.SQLite.dll
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\FluentMigrator.Runner.SqlServer.dll
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\FluentMigrator.Runner.SqlServerCe.dll
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\System.Data.SqlServerCe.dll
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.Hosting.dll
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\de-DE\FluentMigrator.Abstractions.resources.dll
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\DOMINIO.dll
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\INFRA.dll
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\DOMINIO.pdb
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\INFRA.pdb
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\CRUD\obj\Debug\net7.0-windows\CRUD.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\CRUD\obj\Debug\net7.0-windows\CRUD.CadastroDePecas.resources
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\CRUD\obj\Debug\net7.0-windows\CRUD.ControleDePecas.resources
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\CRUD\obj\Debug\net7.0-windows\CRUD.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\CRUD\obj\Debug\net7.0-windows\CRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\CRUD\obj\Debug\net7.0-windows\CRUD.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\CRUD\obj\Debug\net7.0-windows\CRUD.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\CRUD\obj\Debug\net7.0-windows\CRUD.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\CRUD\obj\Debug\net7.0-windows\CRUD.csproj.CopyComplete
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\CRUD\obj\Debug\net7.0-windows\CRUD.dll
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\CRUD\obj\Debug\net7.0-windows\refint\CRUD.dll
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\CRUD\obj\Debug\net7.0-windows\CRUD.pdb
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\CRUD\obj\Debug\net7.0-windows\CRUD.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\CRUD\obj\Debug\net7.0-windows\ref\CRUD.dll
+C:\Users\Usuario\Desktop\treinamento\Nova pasta\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\linq2db.dll
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\CRUD.exe
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\CRUD.dll.config
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\CRUD.deps.json
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\CRUD.runtimeconfig.json
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\CRUD.dll
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\CRUD.pdb
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\FluentMigrator.dll
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\FluentMigrator.Abstractions.dll
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\FluentMigrator.Extensions.Oracle.dll
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\FluentMigrator.Extensions.Postgres.dll
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\FluentMigrator.Extensions.SqlAnywhere.dll
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\FluentMigrator.Extensions.SqlServer.dll
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\FluentMigrator.Runner.dll
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\FluentMigrator.Runner.Core.dll
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\FluentMigrator.Runner.Db2.dll
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\FluentMigrator.Runner.Firebird.dll
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\FluentMigrator.Runner.Hana.dll
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\FluentMigrator.Runner.MySql.dll
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\FluentMigrator.Runner.Oracle.dll
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\FluentMigrator.Runner.Postgres.dll
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\FluentMigrator.Runner.Redshift.dll
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\FluentMigrator.Runner.SqlAnywhere.dll
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\FluentMigrator.Runner.SQLite.dll
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\FluentMigrator.Runner.SqlServer.dll
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\FluentMigrator.Runner.SqlServerCe.dll
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\System.Data.SqlServerCe.dll
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\linq2db.dll
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.Hosting.dll
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\de-DE\FluentMigrator.Abstractions.resources.dll
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\DOMINIO.dll
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\INFRA.dll
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\DOMINIO.pdb
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\INFRA.pdb
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\CRUD\obj\Debug\net7.0-windows\CRUD.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\CRUD\obj\Debug\net7.0-windows\CRUD.CadastroDePecas.resources
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\CRUD\obj\Debug\net7.0-windows\CRUD.ControleDePecas.resources
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\CRUD\obj\Debug\net7.0-windows\CRUD.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\CRUD\obj\Debug\net7.0-windows\CRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\CRUD\obj\Debug\net7.0-windows\CRUD.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\CRUD\obj\Debug\net7.0-windows\CRUD.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\CRUD\obj\Debug\net7.0-windows\CRUD.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\CRUD\obj\Debug\net7.0-windows\CRUD.csproj.CopyComplete
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\CRUD\obj\Debug\net7.0-windows\CRUD.dll
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\CRUD\obj\Debug\net7.0-windows\refint\CRUD.dll
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\CRUD\obj\Debug\net7.0-windows\CRUD.pdb
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\CRUD\obj\Debug\net7.0-windows\CRUD.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\treinamento\Projetos\Cod3r-s-Growth\CRUD\obj\Debug\net7.0-windows\ref\CRUD.dll
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\CRUD.exe
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\CRUD.dll.config
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\CRUD.deps.json
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\CRUD.runtimeconfig.json
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\CRUD.dll
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\CRUD.pdb
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\FluentMigrator.dll
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\FluentMigrator.Abstractions.dll
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\FluentMigrator.Extensions.Oracle.dll
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\FluentMigrator.Extensions.Postgres.dll
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\FluentMigrator.Extensions.SqlAnywhere.dll
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\FluentMigrator.Extensions.SqlServer.dll
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\FluentMigrator.Runner.dll
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\FluentMigrator.Runner.Core.dll
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\FluentMigrator.Runner.Db2.dll
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\FluentMigrator.Runner.Firebird.dll
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\FluentMigrator.Runner.Hana.dll
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\FluentMigrator.Runner.MySql.dll
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\FluentMigrator.Runner.Oracle.dll
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\FluentMigrator.Runner.Postgres.dll
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\FluentMigrator.Runner.Redshift.dll
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\FluentMigrator.Runner.SqlAnywhere.dll
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\FluentMigrator.Runner.SQLite.dll
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\FluentMigrator.Runner.SqlServer.dll
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\FluentMigrator.Runner.SqlServerCe.dll
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\System.Data.SqlServerCe.dll
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\linq2db.dll
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.Hosting.dll
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\de-DE\FluentMigrator.Abstractions.resources.dll
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\DOMINIO.dll
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\INFRA.dll
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\DOMINIO.pdb
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\CRUD\bin\Debug\net7.0-windows\INFRA.pdb
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\CRUD\obj\Debug\net7.0-windows\CRUD.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\CRUD\obj\Debug\net7.0-windows\CRUD.CadastroDePecas.resources
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\CRUD\obj\Debug\net7.0-windows\CRUD.ControleDePecas.resources
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\CRUD\obj\Debug\net7.0-windows\CRUD.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\CRUD\obj\Debug\net7.0-windows\CRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\CRUD\obj\Debug\net7.0-windows\CRUD.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\CRUD\obj\Debug\net7.0-windows\CRUD.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\CRUD\obj\Debug\net7.0-windows\CRUD.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\CRUD\obj\Debug\net7.0-windows\CRUD.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\CRUD\obj\Debug\net7.0-windows\CRUD.dll
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\CRUD\obj\Debug\net7.0-windows\refint\CRUD.dll
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\CRUD\obj\Debug\net7.0-windows\CRUD.pdb
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\CRUD\obj\Debug\net7.0-windows\CRUD.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Projetos\Cod3r-s-Growth\CRUD\obj\Debug\net7.0-windows\ref\CRUD.dll
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\CRUD\bin\Debug\net7.0-windows\CRUD.exe
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\CRUD\bin\Debug\net7.0-windows\CRUD.dll.config
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\CRUD\bin\Debug\net7.0-windows\CRUD.deps.json
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\CRUD\bin\Debug\net7.0-windows\CRUD.runtimeconfig.json
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\CRUD\bin\Debug\net7.0-windows\CRUD.dll
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\CRUD\bin\Debug\net7.0-windows\CRUD.pdb
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\CRUD\bin\Debug\net7.0-windows\FluentMigrator.dll
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\CRUD\bin\Debug\net7.0-windows\FluentMigrator.Abstractions.dll
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\CRUD\bin\Debug\net7.0-windows\FluentMigrator.Extensions.Oracle.dll
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\CRUD\bin\Debug\net7.0-windows\FluentMigrator.Extensions.Postgres.dll
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\CRUD\bin\Debug\net7.0-windows\FluentMigrator.Extensions.SqlAnywhere.dll
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\CRUD\bin\Debug\net7.0-windows\FluentMigrator.Extensions.SqlServer.dll
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\CRUD\bin\Debug\net7.0-windows\FluentMigrator.Runner.dll
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\CRUD\bin\Debug\net7.0-windows\FluentMigrator.Runner.Core.dll
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\CRUD\bin\Debug\net7.0-windows\FluentMigrator.Runner.Db2.dll
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\CRUD\bin\Debug\net7.0-windows\FluentMigrator.Runner.Firebird.dll
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\CRUD\bin\Debug\net7.0-windows\FluentMigrator.Runner.Hana.dll
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\CRUD\bin\Debug\net7.0-windows\FluentMigrator.Runner.MySql.dll
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\CRUD\bin\Debug\net7.0-windows\FluentMigrator.Runner.Oracle.dll
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\CRUD\bin\Debug\net7.0-windows\FluentMigrator.Runner.Postgres.dll
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\CRUD\bin\Debug\net7.0-windows\FluentMigrator.Runner.Redshift.dll
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\CRUD\bin\Debug\net7.0-windows\FluentMigrator.Runner.SqlAnywhere.dll
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\CRUD\bin\Debug\net7.0-windows\FluentMigrator.Runner.SQLite.dll
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\CRUD\bin\Debug\net7.0-windows\FluentMigrator.Runner.SqlServer.dll
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\CRUD\bin\Debug\net7.0-windows\FluentMigrator.Runner.SqlServerCe.dll
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\CRUD\bin\Debug\net7.0-windows\System.Data.SqlServerCe.dll
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\CRUD\bin\Debug\net7.0-windows\linq2db.dll
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\CRUD\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.Hosting.dll
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\CRUD\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\CRUD\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\CRUD\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\CRUD\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\CRUD\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\CRUD\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\CRUD\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\CRUD\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\CRUD\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\CRUD\bin\Debug\net7.0-windows\de-DE\FluentMigrator.Abstractions.resources.dll
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\CRUD\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\CRUD\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\CRUD\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\CRUD\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\CRUD\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\CRUD\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\CRUD\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\CRUD\bin\Debug\net7.0-windows\DOMINIO.dll
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\CRUD\bin\Debug\net7.0-windows\INFRA.dll
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\CRUD\bin\Debug\net7.0-windows\DOMINIO.pdb
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\CRUD\bin\Debug\net7.0-windows\INFRA.pdb
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\CRUD\obj\Debug\net7.0-windows\CRUD.csproj.AssemblyReference.cache
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\CRUD\obj\Debug\net7.0-windows\CRUD.CadastroDePecas.resources
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\CRUD\obj\Debug\net7.0-windows\CRUD.ControleDePecas.resources
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\CRUD\obj\Debug\net7.0-windows\CRUD.csproj.GenerateResource.cache
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\CRUD\obj\Debug\net7.0-windows\CRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\CRUD\obj\Debug\net7.0-windows\CRUD.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\CRUD\obj\Debug\net7.0-windows\CRUD.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\CRUD\obj\Debug\net7.0-windows\CRUD.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\CRUD\obj\Debug\net7.0-windows\CRUD.csproj.CopyComplete
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\CRUD\obj\Debug\net7.0-windows\CRUD.dll
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\CRUD\obj\Debug\net7.0-windows\refint\CRUD.dll
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\CRUD\obj\Debug\net7.0-windows\CRUD.pdb
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\CRUD\obj\Debug\net7.0-windows\CRUD.genruntimeconfig.cache
+C:\Users\Pedro\Desktop\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\CRUD\obj\Debug\net7.0-windows\ref\CRUD.dll

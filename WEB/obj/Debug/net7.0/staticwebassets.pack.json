@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Pedro\\Desktop\\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\\WEB\\wwwroot\\Component.js",
+      "PackagePath": "staticwebassets\\Component.js"
+    },
+    {
+      "Id": "C:\\Users\\Pedro\\Desktop\\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\\WEB\\wwwroot\\View\\App.view.xml",
+      "PackagePath": "staticwebassets\\View\\App.view.xml"
+    },
+    {
+      "Id": "C:\\Users\\Pedro\\Desktop\\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\\WEB\\wwwroot\\controller\\App.controller.js",
+      "PackagePath": "staticwebassets\\controller\\App.controller.js"
+    },
+    {
+      "Id": "C:\\Users\\Pedro\\Desktop\\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\\WEB\\wwwroot\\i18n\\i18n.properties",
+      "PackagePath": "staticwebassets\\i18n\\i18n.properties"
+    },
+    {
+      "Id": "C:\\Users\\Pedro\\Desktop\\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\\WEB\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Pedro\\Desktop\\Cod3r-s-Growth-criar_endpoints_para_operacoes_de_crud_com_validacoes\\WEB\\wwwroot\\manifest.json",
+      "PackagePath": "staticwebassets\\manifest.json"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.WEB.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.WEB.props",
+      "PackagePath": "build\\WEB.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.WEB.props",
+      "PackagePath": "buildMultiTargeting\\WEB.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.WEB.props",
+      "PackagePath": "buildTransitive\\WEB.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
